@@ -33,10 +33,10 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libteecl \
-    liboemcrypto \
-    libwvhidl \
-    libwvdrmengine \
-    libkeymaster_helper \
+    liboemcrypto.teegris \
+    libwvhidl.teegris \
+    libwvdrmengine.teegris \
+    libkeymaster_helper.teegris \
     libskeymaster4device \
     manifest_android.hardware.drm@1.3-service.widevine.xml \
     android.hardware.drm@1.3-service.widevine \
